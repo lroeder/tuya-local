@@ -38,6 +38,9 @@ products:
   - id: IGzCi97RpN2Lf9cu
     manufacturer: Gosund
     model: SP1
+  - id: zemsharuxjs9tbz7
+    manufacturer: Hama
+    model: WLAN-Steckdose 16A (176575)    
 entities:
   - entity: switch
     class: outlet
